@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.2.0"
 
 package:
   name: datalab-capsule
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/datalab_capsule/datalab_capsule-${{ version }}.tar.gz
-  sha256: 70a9f562d1dd525635f89a65c8ab77b32caa669f4b123f84bfc73e505459f0dd
+  sha256: c6c1ea96819aa185a3a024c521b6793412765e824381d57e431fb3f750144e1b
 
 build:
   number: 0
